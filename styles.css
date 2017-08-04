@@ -68,7 +68,7 @@ font-family: "Times New Roman", Times, serif;
     border: none;
     color: white;
     padding: 15px 32px;
-    text-align: center;
+    align: center;
     text-decoration: none;
     text-transform: uppercase;
     display: inline-block;
@@ -76,6 +76,7 @@ font-family: "Times New Roman", Times, serif;
     margin: 4px 2px;
     cursor: pointer;
 }
+
 .copyright {
   font-family: 'Playfair Display', serif;
   color: #71DDE0;
