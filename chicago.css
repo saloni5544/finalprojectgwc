@@ -1,0 +1,45 @@
+.gameOver {
+ color: #71DDE0;
+
+}
+
+.backgroundDiv {
+
+ background-image: url(http://www.hdwallpaper.nu/wp-content/uploads/2015/02/chicago-city-wallpaper-widescreen-hd-wallpapers.jpg);
+ height: auto;
+ width: 100%;
+ background-position: 0px -50px;
+    background-repeat: repeat-x;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.button {
+    font-family: 'Playfair Display', serif;
+    background-color: #71DDE0;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.chicagoPara {
+ color: #71DDE0;
+ padding: 20px;
+
+}
+.chicagoLinks {
+  background-image: url(http://www.haynesboone.com/~/media/images/haynesboone/offices/chicago_2015rm_1000x370.ashx?bc=232323&as=1&h=370&la=en&w=1000);
+}
+
+a {
+  float: left;
+  color: #71DDE0;
+}
