@@ -1,0 +1,46 @@
+.gameOver {
+ color: #71DDE0;
+
+}
+
+.backgroundDiv {
+
+ background-image: url(https://c1.staticflickr.com/9/8054/8376933838_25da2540e4_b.jpg);
+ height: auto;
+ width: 100%;
+ background-position: 0px -50px;
+    background-repeat: repeat-x;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.button {
+    font-family: 'Playfair Display', serif;
+    background-color: #71DDE0;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.liberiaPara {
+ color: #71DDE0;
+ padding: 20px;
+ width: 25%;
+
+}
+.liberiaLinks {
+background-color: white;
+}
+
+.liberiaLinks {
+  float: left;
+  color: #71DDE0;
+}
