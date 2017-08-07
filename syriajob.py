@@ -1,8 +1,3 @@
-start =
-
-
-
-print(start)
 
 #print("Enter your name here.")
 user_input = input("Enter your name here.")
