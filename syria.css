@@ -1,0 +1,46 @@
+.gameOver {
+ color: #71DDE0;
+
+}
+
+.backgroundDiv {
+
+ background-image: url(http://i2.cdn.cnn.com/cnnnext/dam/assets/150915122342-syria-douma-damage-0907-super-169.jpg);
+ height: auto;
+ width: 100%;
+ background-position: 0px -50px;
+    background-repeat: repeat-x;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.button {
+    font-family: 'Playfair Display', serif;
+    /*background-color: #71DDE0;*/
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.chicagoPara {
+ color: #71DDE0;
+ padding: 20px;
+ width: 25%;
+
+}
+.chicagoLinks {
+  background-image: url(https://gdb.voanews.com/816A5957-D594-40A5-B5BF-7BF120C5D57B_cx0_cy9_cw0_w1023_r1_s.jpg);
+}
+
+a {
+  float: left;
+  color: #71DDE0;
+}
