@@ -5,9 +5,21 @@ img.center {
   height: 1000px;
   width: 1000px;
 }
-.links {
+ul{
+  margin:0;
+  padding:0;
+  
+}
+.container{
   color: #71DDE0;
   font-size:200%;
+  width:80%;
+  margin:auto;
+  overflow:hidden;
+  
+}
+.no-underline:hover {
+    text-decoration: none;
 }
 
 a {
@@ -32,7 +44,6 @@ color: #71DDE0;
 
 h2 {
 text-align: center;
-text-transform: lowercase;
 font-size: 60px;
 color: #71DDE0;
 font-family: 'Playfair Display', serif;
@@ -43,7 +54,6 @@ background-color: white;
 h3 {
  font-family: 'Playfair Display', serif;
 text-align: center;
-text-transform: lowercase;
 font-size: 40px;
 color: #71DDE0;
 }
@@ -55,7 +65,6 @@ color: #71DDE0;
 
 #demo {
 text-align: center;
-text-transform: lowercase;
 font-size: 50px;
 color: #71DDE0;
 font-family: "Times New Roman", Times, serif;
@@ -72,7 +81,7 @@ font-family: "Times New Roman", Times, serif;
     text-transform: uppercase;
     display: inline-block;
     font-size: 16px;
-    margin: 4px 2px;
+    margin: 2px 2px;
     cursor: pointer;
 }
 
@@ -80,3 +89,4 @@ font-family: "Times New Roman", Times, serif;
   font-family: 'Playfair Display', serif;
   color: #71DDE0;
 }
+
