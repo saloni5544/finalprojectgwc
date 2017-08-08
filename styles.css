@@ -8,6 +8,7 @@ img.center {
 ul{
   margin:0;
   padding:0;
+  
 }
 .container{
   color: #71DDE0;
@@ -15,6 +16,10 @@ ul{
   width:80%;
   margin:auto;
   overflow:hidden;
+  
+}
+.no-underline:hover {
+    text-decoration: none;
 }
 
 a {
@@ -39,6 +44,7 @@ color: #71DDE0;
 
 h2 {
 text-align: center;
+text-transform: lowercase;
 font-size: 60px;
 color: #71DDE0;
 font-family: 'Playfair Display', serif;
@@ -60,6 +66,7 @@ color: #71DDE0;
 
 #demo {
 text-align: center;
+text-transform: lowercase;
 font-size: 50px;
 color: #71DDE0;
 font-family: "Times New Roman", Times, serif;
