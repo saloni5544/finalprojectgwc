@@ -2,10 +2,10 @@
  color: #71DDE0;
 
 }
-
+.body{
+  background-image: url(http://i2.cdn.cnn.com/cnnnext/dam/assets/150915122342-syria-douma-damage-0907-super-169.jpg);
+}
 .backgroundDiv {
-
- background-image: url(http://i2.cdn.cnn.com/cnnnext/dam/assets/150915122342-syria-douma-damage-0907-super-169.jpg);
  height: auto;
  width: 100%;
  background-position: 0px -50px;
