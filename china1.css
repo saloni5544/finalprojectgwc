@@ -1,0 +1,111 @@
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 600px;
+  width: 800px;
+}
+.links {
+  color: #8B0000;
+  font-size: 200%;
+}
+
+a {
+ color: #71DDE0;
+}
+
+body {
+font-family: 'Lato', lato;
+background-image: url("https://img.rt.com/files/2015.12/original/56701d04c46188be2c8b4571.jpg");
+background-repeat: no-repeat;
+background-position:center;
+background-size: cover;
+height: 100%;
+}
+
+h1 {
+text-align: center;
+;
+font-size: 50px;
+color: 	#F28518;
+font-family: 'Georgia', sans-serif;
+}
+
+
+
+h2 {
+text-align: center;
+text-transform: uppercase;
+font-size: 30px;
+color: 	#7B68EE
+font-family: 'Verdana', sans-serif;
+background-color: white;
+
+}
+
+h3 {
+ font-family: 'Playfair Display', serif;
+text-align: center;
+text-transform: uppercase;
+font-size: 30px;
+color: #F28518;
+}
+
+.welcome {
+  background-color: #000000;
+  color: #71DDE0;
+}
+
+
+p2 { text-align: center;
+text-transform: lowecase;
+font-size: 21px;
+  font-weight: bol ;
+ color:  #39E690
+;
+
+
+
+
+
+
+
+
+}
+#demo {
+text-align: center;
+text-transform: uppercase;
+font-size: 30px;
+
+font-family: "Comic Sans", serif;
+}
+
+.button {
+    font-family: 'Playfair Display', serif;
+    background-color:#00264d;
+    border: none;
+    color:white;
+    padding: 15px 32px;
+    align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    font-size: 16px;
+
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#ice  {
+  color: #71DDE0
+
+}
+
+#playagain {
+  background-color: black;
+  text-decoration: none;
+  color:black;
+}
+.copyright {
+  font-family: 'Playfair Display', serif;
+  color: #71DDE0;
+}
